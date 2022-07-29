@@ -1,2 +1,2 @@
 # sm3
-optimize and birthday attack
+sm3优化，sm3生日攻击，sm3长度扩展攻击，sm4实现与优化
